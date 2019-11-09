@@ -1,0 +1,17 @@
+#Python sings the ranibow with some tweeks!
+from tts import text-to-speech as sing
+
+def singfunction():
+  sing("red)
+  sing("orange")
+  sing("yellow")
+  sing("green")
+  sing("UNICORN")
+  sing("purple")
+  sing("pink")
+  sing("UNICORN")
+  sing("UNICORN PONIE")
+singfunction()
+
+#made by ErlendDev
+#This is not real code
